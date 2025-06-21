@@ -15,7 +15,19 @@ raw = df['div'].str.cat(sep="\n")
 # 3) dividir em linhas
 lines = raw.split("\n")
 
-# 4) classe editora da pipeline
+# 4) Criar dicionário
+data = {
+    "data": [],
+    "time_casa": [],
+    "time_fora": [],
+    "placar_casa": [],
+    "placar_fora": [],
+    "campeonato": [],
+    "status": [],
+    "resultado": []
+}
+
+# 5) classe editora da pipeline
 processor = Pipeline2Processor(data_dict=data)
 
 camp_atual = None
