@@ -1,0 +1,39 @@
+data,time_casa,time_fora,placar_casa,placar_fora,campeonato,status,resultado
+11/05/25,Atlético-MG,Fluminense,3,2,Brasileirão Betano,F2°T,W
+15/05/25,Atlético-MG,Caracas,3,1,CONMEBOL Sudamericana,F2°T,W
+18/05/25,Cruzeiro,Atlético-MG,0,0,Brasileirão Betano,F2°T,D
+21/05/25,Atlético-MG,Maringá,4,0,Copa Betano do Brasil,F2°T,W
+24/05/25,Atlético-MG,Corinthians,0,0,Brasileirão Betano,F2°T,D
+29/05/25,Atlético-MG,Cienciano,1,1,CONMEBOL Sudamericana,F2°T,D
+01/06/25,Ceará,Atlético-MG,0,1,Brasileirão Betano,F2°T,W
+12/06/25,Atlético-MG,Internacional,2,0,Brasileirão Betano,F2°T,W
+06/04/25,Atlético-MG,São Paulo,0,0,Brasileirão Betano,F2°T,D
+10/04/25,Atlético-MG,Iquique,4,0,CONMEBOL Sudamericana,F2°T,W
+13/04/25,Atlético-MG,Vitória,2,2,Brasileirão Betano,F2°T,D
+16/04/25,Santos,Atlético-MG,2,0,Brasileirão Betano,F2°T,L
+20/04/25,Atlético-MG,Botafogo,1,0,Brasileirão Betano,F2°T,W
+23/04/25,Caracas,Atlético-MG,1,1,CONMEBOL Sudamericana,F2°T,D
+26/04/25,Mirassol,Atlético-MG,2,2,Brasileirão Betano,F2°T,D
+29/04/25,Maringá,Atlético-MG,2,2,Copa Betano do Brasil,F2°T,D
+05/05/25,Juventude,Atlético-MG,0,1,Brasileirão Betano,F2°T,W
+08/05/25,Iquique,Atlético-MG,3,2,CONMEBOL Sudamericana,F2°T,L
+09/02/25,Cruzeiro,Atlético-MG,0,2,"Mineiro, Módulo I",F2°T,W
+12/02/25,Atlético-MG,Itabirito,3,0,"Mineiro, Módulo I",F2°T,W
+15/02/25,Atlético-MG,Tombense,2,0,"Mineiro, Módulo I",F2°T,W
+18/02/25,Tocantinópolis,Atlético-MG,0,2,Copa Betano do Brasil,F2°T,W
+22/02/25,Tombense,Atlético-MG,0,2,"Mineiro, Módulo I",F2°T,W
+05/03/25,Atlético-MG,Manaus,4,1,Copa Betano do Brasil,F2°T,W
+08/03/25,Atlético-MG,América-MG,4,0,"Mineiro, Módulo I",F2°T,W
+15/03/25,América-MG,Atlético-MG,1,0,"Mineiro, Módulo I",F2°T,L
+29/03/25,Grêmio,Atlético-MG,2,1,Brasileirão Betano,F2°T,L
+01/04/25,Cienciano,Atlético-MG,0,0,CONMEBOL Sudamericana,F2°T,D
+04/12/24,Vasco,Atlético-MG,2,0,Brasileirão Betano,F2°T,L
+08/12/24,Atlético-MG,Athletico,1,0,Brasileirão Betano,F2°T,W
+18/01/25,Atlético-MG,Cruzeiro,0,0,Club Friendly Games,F2°T,D
+19/01/25,Aymorés,Atlético-MG,0,0,"Mineiro, Módulo I",F2°T,D
+22/01/25,Atlético-MG,Democrata (GV),1,1,"Mineiro, Módulo I",F2°T,D
+25/01/25,Orlando,Atlético-MG,0,0,Club Friendly Games,AP,L
+26/01/25,Pouso Alegre,Atlético-MG,0,0,"Mineiro, Módulo I",F2°T,D
+29/01/25,Atlético-MG,América-MG,1,1,"Mineiro, Módulo I",F2°T,D
+01/02/25,Villa Nova,Atlético-MG,0,1,"Mineiro, Módulo I",F2°T,W
+04/02/25,Atlético-MG,Athletic,1,0,"Mineiro, Módulo I",F2°T,W
